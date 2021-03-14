@@ -14,7 +14,4 @@
 * Filter items **⇒ All / Completed / Uncompleted**
 * Each item are saved using local storage
 
-<br>
-
 ***
-
